@@ -13,9 +13,10 @@ Es el comando que me permite iniciar un directorio y que git vaya monitoreando t
 Clona un repositorio remoto de manera local.
 
 ## git status
-Describe el estado del repositorio actual, cambios a agregar, cambios agregados a commitear y commits pendientes de pushear.
+Describe el estado del repositorio actual, cambios a agregar, cambios agregados a commitear y commits pendientes de pushear si los hubiere. Además especifica información como la branch actual.
 
 ## git add
+Agrega los cambios realizados en archivos/directorios del proyecto para formar parte del potencial próximo commit. 
 
 ## git commit
 
