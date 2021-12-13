@@ -22,6 +22,10 @@ Agrega los cambios realizados en archivos/directorios del proyecto para formar p
 Crea un hito o punto de control con todos los cambios agregados desde el último commmit. Permite agragar un mensaje descriptivo.
 
 ### good commits messages
+Capitalizados
+En Ingles
+En infinitivo
+En presente simple
 
 ## git log
 
