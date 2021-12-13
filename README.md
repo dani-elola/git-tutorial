@@ -34,6 +34,7 @@ Muestra el historial de commits del repositorio y branch actuales, el hash de ca
 Permite desplazarse entre ramas git checkout nombre-de-la-rama asi como crear nuevas ramas gir checkout -b "nombre de la rama".
 
 ## git push
+Publica los commits locales en un repositorio remoto. Ej. git hub.
 
 ## git pull
 
