@@ -25,11 +25,13 @@ Crea un hito o punto de control con todos los cambios agregados desde el último
 Capitalizados
 En Ingles
 En infinitivo
-En presente simple
+En presente simple 
 
 ## git log
+Muestra el historial de commits del repositorio y branch actuales, el hash de cada uno, así como fecha y hora, autor y mensaje. Se sale con Q.
 
-## git branch
+## git checkout
+Permite desplazarse entre ramas git checkout nombre-de-la-rama asi como crear nuevas ramas gir checkout -b "nombre de la rama".
 
 ## git push
 
