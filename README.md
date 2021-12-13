@@ -13,6 +13,7 @@ Es el comando que me permite iniciar un directorio y que git vaya monitoreando t
 Clona un repositorio remoto de manera local.
 
 ## git status
+Describe el estado del repositorio actual, cambios a agregar, cambios agregados a commitear y commits pendientes de pushear.
 
 ## git add
 
