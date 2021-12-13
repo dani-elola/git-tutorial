@@ -19,6 +19,7 @@ Describe el estado del repositorio actual, cambios a agregar, cambios agregados 
 Agrega los cambios realizados en archivos/directorios del proyecto para formar parte del potencial próximo commit. 
 
 ## git commit
+Crea un hito o punto de control con todos los cambios agregados desde el último commmit. Permite agragar un mensaje descriptivo.
 
 ### good commits messages
 
