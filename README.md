@@ -37,8 +37,10 @@ Permite desplazarse entre ramas git checkout nombre-de-la-rama asi como crear nu
 Publica los commits locales en un repositorio remoto. Ej. git hub.
 
 ## git pull
+Actualiza el repositorio local con los commits publicados en el repositorio remoto y que sean faltantes.
 
 ## git merge
+Permite mezclar o unir la rama de trabajo actual con una especificada.
 
 ## .gitignore
 
